@@ -1,6 +1,6 @@
 # CodersCup
 
-# Young Coders competition (Manuel)
+# Coders Cup competition (Manuel)
 ![Alt text](season3.png?raw=true "Title")
 
 - It is an annual game design competition aimed to challenge students to program a
