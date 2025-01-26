@@ -113,7 +113,7 @@ mobile applications and mobile video games.
 5. GDD (Game design document)
    - The purpose of a game design document is to unambiguously describe the game's selling points, target audience, gameplay, art, level design, story, characters, UI, assets, etc.
 6. The delivered game MUST be the same one presented in the competition day.
-7. The delivery link will be sent by 20/2.
+7. The delivery link will be sent by 10/4.
 ---
 
 ## Code of conduct:

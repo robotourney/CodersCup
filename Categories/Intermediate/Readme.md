@@ -93,7 +93,7 @@
 4. GDD (Game design document)
    - The purpose of a game design document is to unambiguously describe the game's selling points, target audience, gameplay, art, level design, story, characters, UI, assets, etc.
 5. The delivered game MUST be the same one presented in the competition day.
-6. The delivery link will be sent by 20/2.
+6. The delivery link will be sent by 10/4.
 7. The team Should deliver a ZIP file, containing the game file, all assets used, screenshots for the game and/or recorded video. (More deltails on that will be revealed later)
 
 ---
