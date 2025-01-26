@@ -1,7 +1,7 @@
 # CodersCup
 
 # Young Coders competition (Manuel)
-![Alt text](cover.png?raw=true "Title")
+![Alt text](season3.png?raw=true "Title")
 
 - It is an annual game design competition aimed to challenge students to program a
 game with a certain standard, which will challenge their creativity and curiosity to
@@ -9,7 +9,7 @@ learn and master programming.
 ---
 Follow us on:
 - https://www.facebook.com/profile.php?id=61555466910514
-- https://abdelwahabadam.github.io/CodersCup_landing
+- https://coderscup.godaddysites.com/
 ---
 
 Every year will be a different theme for the competition.
@@ -18,8 +18,8 @@ Every year will be a different theme for the competition.
 <code><img height="35" src="https://img.icons8.com/color/48/000000/python.png"/></code>&nbsp;&nbsp;
 <code><img height="35" src="https://www.pygame.org/docs/_images/pygame_logo.png"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://static.wikia.nocookie.net/logopedia/images/4/49/Kodu-icon.png/revision/latest?cb=20211023063013"></code>&nbsp;&nbsp;
-<code><img height="35" src="https://seeklogo.com/images/S/scratch-cat-logo-7F652C6253-seeklogo.com.png"></code>&nbsp;&nbsp;
-<code><img height="35" src="https://steamcenter.co/Documents/CourseImage/CourseImage638272740458204194_CourseImage.png"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://cdn.worldvectorlogo.com/logos/scratch-cat.svg"></code>&nbsp;&nbsp;
+<code><img height="35" src="https://play-lh.googleusercontent.com/lZzyTE3W9T9qNSdGG8Z3RA0GzlU5bX5hSYrcw6tfu2uK1Wf_9eqV-x-aJ0WMnVe1DQ=w240-h480-rw"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/ai-bee-logo.png"></code>&nbsp;&nbsp;
 <code><img height="35" src="https://i.pcmag.com/imagery/reviews/01JwP71TDkYZqIdckYYYybR-1..v1601052460.png"></code>&nbsp;&nbsp;
@@ -30,40 +30,43 @@ Every year will be a different theme for the competition.
     - Shall be reveal later.
 ---
 # Time Line
-- 15/12 : Competition Overview.
-- 8/1 : Theme reveals
-- 20/2 : Sending Deliver Link.
-- 25/2 : Start Deliver the Codes.
-- 1/3  : End Deliver the Codes.
-- 8/3  : Competition day.
+- 25/1 : Registration Open.
+- 26/1 : Competition Overview.
+- 15/2 : Theme reveals
+- 10/4 : Sending Deliver Link.
+- 15/4 : Start Deliver the Codes.
+- 22/4  : End Deliver the Codes.
+- 25/4  : Competition day.
 
 ---
 ## Categories 
 
 -	Entry-level (Kudo)
 -	Intermediate (Scratch - pictoblox)
--	Senior (Unity game engine - MIT app inventor - **Gamemaker Studio**)
--	Principal (Python - **Flutter**)
+-	Senior (Unity game engine - MIT app inventor - Gamemaker Studio)
+-	Principal (Python - Flutter)
 
 ---
 
 ## Competition Phases:
-   - The competition will be divided into 2 phases.
+   - The competition will be divided into 2 phases.  **(400 Point)**
    - Phase 1 (Before Competition Phase)
    - Phase 2 (On-Competition Phase)
 
 ### Before Competition Phase
    - This Phase will start from the beginning of registration, it will review the constate progress for each team, and the final Code Review before competition. (Review Each category Guide for more details) **(50 Point)**
 ### On-Competition Phase
-   - This Phase will start on the competition day, and it will consist from two different parts. **(250 Point)**
+   - This Phase will start on the competition day, and it will consist from three different parts. **(350 Point)**
 
-   - Section 1 **(Pre-made Project)** : 
-     - The teams will showcase their project to a panel of judges, delivering a presentation that highlights the key aspects of their code. **(150 Point)**
-  
+   - Section 1 **(Pre-made Project)** **(200 Point)** : 
+     - The teams will showcase their project to a panel of judges, delivering a presentation that highlights the key aspects of their code.
+     - **Judges will ask the team questions to make sure they understand what they deliver.**
+      
    - Section 2 (On spot tasks) **(100 Point)**:
        - Section 1: A - Easy Task (to be delivered in 30 minutes) (50 point)
        - Section 2: A+ - Medium Task (to be delivered in 45 minutes) (30 Point)
        - Section 3: A++ - Difficult Task (to be delivered in 1 hour) (20 Point)
+    - **Section 3 (Secret Jugde) (50 Point)** 
 ---
 ## On spot tasks
    - East Task:
@@ -91,5 +94,5 @@ Every year will be a different theme for the competition.
        - Adult help is accepted as long asthe majority of the work is done by the participants.
 5. GDD (Game design document): A template will be sent, participants can either edit it or design their own GDD with the same required data.
 6. The delivered game MUST be the same one presented in the competition day.
-7. For any Question, you can ask us on https://abdelwahabadam.github.io/CodersCup_landing/#form-askus
+7. For any Question, you can ask us on https://chat.whatsapp.com/JbHvWOYPYNeJzpHVqrCQtK
 ---
