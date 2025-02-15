@@ -26,8 +26,8 @@ Every year will be a different theme for the competition.
 <code><img height="35" src="https://logowik.com/content/uploads/images/flutter5786.jpg"/></code>&nbsp;&nbsp;
 
 ---
-## Theme
-    - Shall be reveal later.
+## Theme (2025)
+    - A Glimpse into the Future
 ---
 # Time Line
 - 25/1 : Registration Open.
